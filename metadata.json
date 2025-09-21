@@ -1,0 +1,5 @@
+{
+  "name": "Stock Analysis Dashboard",
+  "description": "A professional-looking stock analysis dashboard that fetches historical data, calculates key technical indicators like EMA, RSI, and Bollinger Bands, and provides an analysis of the stock's current trend (Bullish, Bearish, or Consolidation).",
+  "requestFramePermissions": []
+}
